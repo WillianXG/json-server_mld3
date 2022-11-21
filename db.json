@@ -112,36 +112,81 @@
   "Sessoes": [
     {
       "id": 1,
-      "Sala 1": "3D Dublado"
+      "Sala 1": "3D Dublado, 100 cadeiras",
+      "categoria_id":3
     },
     {
       "id": 2,
-      "Sala 2": "3D Legendado"
+      "Sala 2": "3D Legendado 120 cadeiras",
+      "categoria_id": 3
     },
     {
       "id": 3,
-      "Sala 3": "3D Dublado"
+      "Sala 3": "3D Dublado 235 cadeiras",
+      "categoria_id": 3
     },
     {
       "id": 4,
-      "Sala 4": "3D Legendado"
+      "Sala 4": "3D Legendado 100 cadeiras",
+      "categoria_id": 3
     },
     {
       "id": 5,
-      "Sala 5": "2D Dublado"
+      "Sala 5": "2D Dublado 125 cadeiras",
+      "categoria_id": 3
     },
     {
       "id": 6,
-      "Sala 6": "2D Dublado"
+      "Sala 6": "2D Dublado 225 cadeiras",
+      "categoria_id": 3
     },
     {
       "id": 7,
-      "Sala 7": "2D Legendado"
+      "Sala 7": "2D Legendado 142 cadeiras",
+      "categoria_id": 3
     },
     {
       "id": 8,
-      "Sala 8": "2D Legendado"
+      "Sala 8": "2D Legendado 100 cadeiras",
+      "categoria_id": 3
     }
+  ],
+  "Reservas":[
+  {
+    "id": 1,
+    "Sala 9": "Espaço com 100 cadeiras, 3D",
+    "preço": "250.00",
+    "categoria_id": 4
+  },
+  {
+    "id": 2,
+    "Sala 10": "Espaço com 150 cadeiras, 2D",
+    "preço": "290.00",
+    "categoria_id": 4
+  },
+  {
+    "id": 3,
+    "Sala 11": "Espaço com 200 cadeiras, 3D",
+    "preço": "320.00",
+    "categoria_id": 4
+  },
+  {
+    "id": 4,
+    "Sala 12": "Espaço com 145 cadeiras, 3D",
+    "preço": "280.00",
+    "categoria_id": 4
+  },
+  {
+    "id": 5,
+    "Sala 13": "Espaço com 100 cadeiras, 2D",
+    "preço": "250.00",
+    "categoria_id": 4
+  },
+  {"id": 6,
+    "Sala 14": "Espaço com 230 cadeiras, 3D",
+    "preço": "350.00",
+    "categoria_id": 4
+  }
   ],
   "categorias": [
     {
@@ -155,6 +200,10 @@
     {
       "id": 3,
       "nome": "Sessões"
+    },
+    {
+      "id": 4,
+      "nome": "Reservas"
     }
   ]
 }
