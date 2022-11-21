@@ -1,0 +1,160 @@
+{ 
+  "Filmes": [
+    {
+      "id": 1,
+      "nome": "Adão Negro",
+      "descrição": "Dotado dos poderes onipotentes dos deuses, Teth Adam está preso por 5.000 anos, passando de homem, mito, lenda: Adão Negro. Agora livre, um vingativo Adão Negro exerce seu senso único de justiça, nascido da raiva, mais uma vez. Recusando-se a se render, o anti-herói que passou de homem, mito e lenda, é desafiado pelos heróis modernos da Sociedade da Justiça: Gavião Negro, Sr. Destino, Esgama Átomo e Cyclone.",
+      "preço": "27.90",
+      "categoria_id": "1"
+    },
+    {
+      "id": 2,
+      "nome": "Pantera Negra",
+      "descrição": "A Rainha Ramonda, Shuri, M’Baku, Okoye e as Dora Milaje, lutam para proteger sua nação contra as potências mundiais intervenientes logo após a morte do Rei T’Challa. Enquanto os Wakandanos se esforçam para aceitar este próximo capítulo, os heróis devem se unir com a ajuda da veterana guerreira Nakia e Everett Ross e forjar um novo caminho para o reino de Wakanda. Apresentando como Namor, rei de uma oculta nação submarina, o filme também é estrelado por Dominique Thorne, Michaela Coel, Mabel Cadena e Alex Livanalli.",
+      "preço": "25.85",
+      "categoria_id": "1"
+    },
+    {
+      "id": 3,
+      "nome": "One Piece Film: Red",
+      "descrição": "Luffy e sua equipe assistem a um show onde a cantora Uta não é outra senão a filha de Shanks",
+      "preço": "25.50",
+      "categoria_id": "1"
+    },
+    {
+      "id": 4,
+      "nome": "A Luz do Demônio",
+      "descrição": "Com relatos de possessões demoníacas alcançando números sem precedentes em todo o mundo, o Vaticano abre escolas para exorcismos em seis países, incluindo os Estados Unidos. A freira Ann acredita devotamente que realizar exorcismos é o seu chamado. Mas ela está em desacordo com as tradições da instituição: as freiras não podem realizar exorcismos, apenas padres. Com o apoio de um mentor, um professor que sente seu dom especial, ela pode assistir a sessões de treinamento reais. Seu desejo de provar a si própria toma um rumo pessoal quando ela conhece um dos pacientes mais perturbados da escola. Durante seus encontros angustiantes, a irmã Ann se depara com uma força demoníaca que infesta a escola e tem laços misteriosos com seu próprio passado. É então que o poder do mal e suas próprias habilidades surpreendentes serão plenamente realizados.",
+      "preço": "27.90",
+      "categoria_id": "1"
+    },
+    {
+      "id": 5,
+      "nome": "Avatar",
+      "descrição": "No exuberante mundo alienígena de Pandora vivem os Na'vi, seres que parecem ser primitivos, mas são altamente evoluídos. Como o ambiente do planeta é tóxico, foram criados os avatares, corpos biológicos controlados pela mente humana que se movimentam livremente em Pandora. Jake Sully, um ex-fuzileiro naval paralítico, volta a andar através de um avatar e se apaixona por uma Na'vi. Esta paixão leva Jake a lutar pela sobrevivência de Pandora. O filme contém uma sequência de luzes piscantes que podem afetar pessoas suscetíveis a epilepsia fotossensível ou outras fotossensibilidades.ex",
+      "preço": "27.90",
+      "categoria_id": "1"
+    },
+    {
+      "id": 6,
+      "nome": "Sorria",
+      "descrição": "Depois de testemunhar um incidente bizarro e traumático envolvendo um paciente, a Dra. Rose Cotter começa a experimentar ocorrências assustadoras que ela não consegue explicar. Rose deve enfrentar seu passado perturbador para sobreviver e escapar de sua nova e horrível realidade.",
+      "preço": "25.99",
+      "categoria_id": "1"
+    }
+    
+  ],
+  "Alimentos": [
+    {
+      "id": 1,
+      "nome": "Agua sem gás 500ml",
+      "descrição": "Agua sem gás no tamanho de 500ml",
+      "preço": "4.50",
+      "categoria_id": "2"
+    },
+    {
+      "id": 2,
+      "nome": "Refrigerante 600ml",
+      "descrição": "Refrigerante 600ml nos sabores: uva, cola, guarana e laranja",
+      "preço": "8.99",
+      "categoria_id": "2"
+    },
+    {
+      "id": 3,
+      "nome": "Refrigerante 1.5l",
+      "descrição": "Refrigerante 1.5l nos sabores: uva, cola, guarana e laranja",
+      "preço": "15.90",
+      "categoria_id": "2"
+    },
+    {
+      "id": 4,
+      "nome": "Pipoca Grande ",
+      "descrição": "Pipoca do tamanho grande com ou sem manteiga",
+      "preço": "18.50",
+      "categoria_id": "2"
+    },
+    {
+      "id": 5,
+      "nome": "Pipoca media",
+      "descrição": "Pipoca do tamanho medio com ou sem manteiga",
+      "preço": "16.00",
+      "categoria_id": "2"
+    },
+    {
+      "id": 6,
+      "nome": "M&Ms 45g",
+      "descrição": "M&Ms de todos os sabores 45g",
+      "preço": "6.00",
+      "categoria_id": "2"
+    },
+    {
+      "id": 7,
+      "nome": "Tempero para pipoca sache",
+      "descrição": "Tempero no sabor de: bacon, frango e carne",
+      "preço": "2.00",
+      "categoria_id": "2"
+    },
+    {
+      "id": 8,
+      "nome": "Combo: Pipoca Grande + Refrigerante 1.5 ",
+      "descrição": "Pipoca Grande + Regrigerante 1.5",
+      "preço": "29.99",
+      "categoria_id": "2"
+    },
+    {
+      "id": 9,
+      "nome": "Combo: Pipoca Media + Refrigerante 600ml ",
+      "descrição": "Pipoca Media + Regrigerante 600ml",
+      "preço": "19.99",
+      "categoria_id": "2"
+    }
+  ],
+  "Sessões": [
+    {
+      "id": 1,
+      "Sala 1": "3D Dublado"
+    },
+    {
+      "id": 2,
+      "Sala 2": "3D Legendado"
+    },
+    {
+      "id": 3,
+      "Sala 3": "3D Dublado"
+    },
+    {
+      "id": 4,
+      "Sala 4": "3D Legendado"
+    },
+    {
+      "id": 5,
+      "Sala 5": "2D Dublado"
+    },
+    {
+      "id": 6,
+      "Sala 6": "2D Dublado"
+    },
+    {
+      "id": 7,
+      "Sala 7": "2D Legendado"
+    },
+    {
+      "id": 8,
+      "Sala 8": "2D Legendado"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "filmes"
+    },
+    {
+      "id": 2,
+      "nome": "alimentação"
+    },
+    {
+      "id": 3,
+      "nome": "Sessões"
+    }
+  ]
+}
