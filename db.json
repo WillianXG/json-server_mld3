@@ -17,7 +17,6 @@
       "nome": "Reservas"
     }
   ],
-
   "filmes": [
     {
       "id": 1,
@@ -62,64 +61,55 @@
       "id": 1,
       "nome": "Agua sem gás 500ml",
       "descricao": "Agua sem gás no tamanho de 500ml",
-      "preco": "4.50",
-      "categoria_id": "2"
+      "preco": "4,50"
     },
     {
       "id": 2,
       "nome": "Refrigerante 600ml",
       "descricao": "Refrigerante 600ml nos sabores: uva, cola, guarana e laranja",
-      "preco": "8.99",
-      "categoria_id": "2"
+      "preco": "8,99"
     },
     {
       "id": 3,
       "nome": "Refrigerante 1.5l",
       "descricao": "Refrigerante 1.5l nos sabores: uva, cola, guarana e laranja",
-      "preco": "15.90",
-      "categoria_id": "2"
+      "preco": "15,90"
     },
     {
       "id": 4,
-      "nome": "Pipoca Grande ",
+      "nome": "Pipoca Grande",
       "descricao": "Pipoca do tamanho grande com ou sem manteiga",
-      "preco": "18.50",
-      "categoria_id": "2"
+      "preco": "18,50"
     },
     {
       "id": 5,
       "nome": "Pipoca media",
       "descricao": "Pipoca do tamanho medio com ou sem manteiga",
-      "preco": "16.00",
-      "categoria_id": "2"
+      "preco": "16,00"
     },
     {
       "id": 6,
       "nome": "M&Ms 45g",
       "descricao": "M&Ms de todos os sabores 45g",
-      "preco": "6.00",
-      "categoria_id": "2"
+      "preco": "6,00"
     },
     {
       "id": 7,
       "nome": "Tempero para pipoca sache",
       "descricao": "Tempero no sabor de: bacon, frango e carne",
-      "preco": "2.00",
-      "categoria_id": "2"
+      "preco": "2,00"
     },
     {
       "id": 8,
-      "nome": "Combo: Pipoca Grande + Refrigerante 1.5 ",
+      "nome": "Combo: Pipoca Grande + Refrigerante 1.5",
       "descricao": "Pipoca Grande + Regrigerante 1.5",
-      "preco": "29.99",
-      "categoria_id": "2"
+      "preco": "29,99"
     },
     {
       "id": 9,
-      "nome": "Combo: Pipoca Media + Refrigerante 600ml ",
+      "nome": "Combo: Pipoca Media + Refrigerante 600ml",
       "descricao": "Pipoca Media + Regrigerante 600ml",
-      "preco": "19.99",
-      "categoria_id": "2"
+      "preco": "19,99"
     }
   ],
   "sessoes": [
