@@ -20,42 +20,66 @@
   "filmes": [
     {
       "id": 1,
-      "img": "",
+      "img": [
+        "",
+        "",
+        ""
+      ],
       "nome": "Adão Negro",
       "descricao": "Dotado dos poderes onipotentes dos deuses, Teth Adam está preso por 5.000 anos, passando de homem, mito, lenda: Adão Negro. Agora livre, um vingativo Adão Negro exerce seu senso único de justiça, nascido da raiva, mais uma vez. Recusando-se a se render, o anti-herói que passou de homem, mito e lenda, é desafiado pelos heróis modernos da Sociedade da Justiça: Gavião Negro, Sr. Destino, Esgama Átomo e Cyclone.",
       "preco": "27,90"
     },
     {
       "id": 2,
-      "img": "",
+      "img": [
+        "",
+        "",
+        ""
+      ],
       "nome": "Pantera Negra",
       "descricao": "A Rainha Ramonda, Shuri, M’Baku, Okoye e as Dora Milaje, lutam para proteger sua nação contra as potências mundiais intervenientes logo após a morte do Rei T’Challa. Enquanto os Wakandanos se esforçam para aceitar este próximo capítulo, os heróis devem se unir com a ajuda da veterana guerreira Nakia e Everett Ross e forjar um novo caminho para o reino de Wakanda. Apresentando como Namor, rei de uma oculta nação submarina, o filme também é estrelado por Dominique Thorne, Michaela Coel, Mabel Cadena e Alex Livanalli.",
       "preco": "25,85"
     },
     {
       "id": 3,
-      "img": "",
+      "img": [
+        "",
+        "",
+        ""
+      ],
       "nome": "One Piece Film: Red",
       "descricao": "Luffy e sua equipe assistem a um show onde a cantora Uta não é outra senão a filha de Shanks",
       "preco": "25,50"
     },
     {
       "id": 4,
-      "img": "",
+      "img": [
+        "",
+        "",
+        ""
+      ],
       "nome": "A Luz do Demônio",
       "descricao": "Com relatos de possessões demoníacas alcançando números sem precedentes em todo o mundo, o Vaticano abre escolas para exorcismos em seis países, incluindo os Estados Unidos. A freira Ann acredita devotamente que realizar exorcismos é o seu chamado. Mas ela está em desacordo com as tradições da instituição: as freiras não podem realizar exorcismos, apenas padres. Com o apoio de um mentor, um professor que sente seu dom especial, ela pode assistir a sessões de treinamento reais. Seu desejo de provar a si própria toma um rumo pessoal quando ela conhece um dos pacientes mais perturbados da escola. Durante seus encontros angustiantes, a irmã Ann se depara com uma força demoníaca que infesta a escola e tem laços misteriosos com seu próprio passado. É então que o poder do mal e suas próprias habilidades surpreendentes serão plenamente realizados.",
       "preco": "27,90"
     },
     {
       "id": 5,
-      "img": "",
+      "img": [
+        "",
+        "",
+        ""
+      ],
       "nome": "Avatar",
       "descricao": "No exuberante mundo alienígena de Pandora vivem os Na'vi, seres que parecem ser primitivos, mas são altamente evoluídos. Como o ambiente do planeta é tóxico, foram criados os avatares, corpos biológicos controlados pela mente humana que se movimentam livremente em Pandora. Jake Sully, um ex-fuzileiro naval paralítico, volta a andar através de um avatar e se apaixona por uma Na'vi. Esta paixão leva Jake a lutar pela sobrevivência de Pandora. O filme contém uma sequência de luzes piscantes que podem afetar pessoas suscetíveis a epilepsia fotossensível ou outras fotossensibilidades.ex",
       "preco": "27,90"
     },
     {
       "id": 6,
-      "img": "",
+      "img": [
+        "",
+        "",
+        ""
+      ],
       "nome": "Sorria",
       "descricao": "Depois de testemunhar um incidente bizarro e traumático envolvendo um paciente, a Dra. Rose Cotter começa a experimentar ocorrências assustadoras que ela não consegue explicar. Rose deve enfrentar seu passado perturbador para sobreviver e escapar de sua nova e horrível realidade.",
       "preco": "25,99"
@@ -127,46 +151,70 @@
       "preco": "19,99"
     }
   ],
-  "sessoes": [
+  "salas": [
     {
       "id": 1,
-      "Sala 1": "3D Dublado, 100 cadeiras",
-      "categoria_id":3
+      "filme": "",
+      "tipo": "3D Dublado",
+      "lotacao": 100,
+      "ingressos": 100,
+      "disponibilidade": false
     },
     {
       "id": 2,
-      "Sala 2": "3D Legendado 120 cadeiras",
-      "categoria_id": 3
+      "filme": "",
+      "tipo": "3D Legendado",
+      "lotacao": 120,
+      "ingressos": 0,
+      "disponibilidade": true
     },
     {
       "id": 3,
-      "Sala 3": "3D Dublado 235 cadeiras",
-      "categoria_id": 3
+      "filme": "",
+      "tipo": "3D Dublado",
+      "lotacao": 235,
+      "ingressos": 0,
+      "disponibilidade": true
     },
     {
       "id": 4,
-      "Sala 4": "3D Legendado 100 cadeiras",
-      "categoria_id": 3
+      "filme": "",
+      "tipo": "3D Legendado",
+      "lotacao": 100,
+      "ingressos": 0,
+      "disponibilidade": true
     },
     {
       "id": 5,
-      "Sala 5": "2D Dublado 125 cadeiras",
-      "categoria_id": 3
+      "filme": "",
+      "tipo": "2D Dublado",
+      "lotacao": 125,
+      "ingressos": 0,
+      "disponibilidade": true
     },
     {
       "id": 6,
-      "Sala 6": "2D Dublado 225 cadeiras",
-      "categoria_id": 3
+      "filme": "",
+      "tipo": "2D Dublado",
+      "lotacao": 225,
+      "ingressos": 0,
+      "disponibilidade": true
     },
     {
       "id": 7,
-      "Sala 7": "2D Legendado 142 cadeiras",
-      "categoria_id": 3
+      "filme": "",
+      "tipo": "2D Legendado",
+      "lotacao": 142,
+      "ingressos": 0,
+      "disponibilidade": true
     },
     {
       "id": 8,
-      "Sala 8": "2D Legendado 100 cadeiras",
-      "categoria_id": 3
+      "filme": "",
+      "tipo": "2D Legendado",
+      "lotacao": 100,
+      "ingressos": 0,
+      "disponibilidade": true
     }
   ],
   "reservas":[
