@@ -21,9 +21,9 @@
     {
       "id": 1,
       "img": [
-        "",
-        "",
-        ""
+        "https://terracoshopping.com.br/wp-content/uploads/2022/10/ada%CC%83o-negro.jpg",
+        "https://pbs.twimg.com/media/Fe86wVOXwAAgyuS?format=jpg&name=medium",
+        "https://pbs.twimg.com/media/FdG9c-8WIAMAC3H?format=jpg&name=medium"
       ],
       "nome": "Adão Negro",
       "descricao": "Dotado dos poderes onipotentes dos deuses, Teth Adam está preso por 5.000 anos, passando de homem, mito, lenda: Adão Negro. Agora livre, um vingativo Adão Negro exerce seu senso único de justiça, nascido da raiva, mais uma vez. Recusando-se a se render, o anti-herói que passou de homem, mito e lenda, é desafiado pelos heróis modernos da Sociedade da Justiça: Gavião Negro, Sr. Destino, Esgama Átomo e Cyclone.",
@@ -43,12 +43,12 @@
     {
       "id": 3,
       "img": [
-        "",
-        "",
-        ""
+        "https://www.cinesystem.com.br/filmes/images/poster/gato-de-botas-2-o-ultimo-pedido.jpg",
+        "https://cinewestside.com.br/img/filmes/f596.jpeg",
+        "https://www.ucicinemas.com.br/Content/Upload/Filmes/Posters/10674/filme_10674.jpg"
       ],
-      "nome": "One Piece Film: Red",
-      "descricao": "Luffy e sua equipe assistem a um show onde a cantora Uta não é outra senão a filha de Shanks",
+      "nome": "Gato de Botas 2: O Último Pedido",
+      "descricao": "Nesta arriscada aventura, Gato de Botas e Kitty vão contar com a ajuda - contra seus mais aguçados instintos – do ratazanas vira-lata, tagarela e incansavelmente otimista, Perro. Juntos, nosso trio de heróis terá que andar um passo à frente de Cachinhos Dourados e uma surpreendente versão dos Três Ursos, de um Pequeno João Trombeta nem tão pequeno assim, e do aterrorizante caçador de recompensas, Lobo Mau.",
       "preco": "25,50"
     },
     {
@@ -69,21 +69,121 @@
         "",
         ""
       ],
-      "nome": "Avatar",
-      "descricao": "No exuberante mundo alienígena de Pandora vivem os Na'vi, seres que parecem ser primitivos, mas são altamente evoluídos. Como o ambiente do planeta é tóxico, foram criados os avatares, corpos biológicos controlados pela mente humana que se movimentam livremente em Pandora. Jake Sully, um ex-fuzileiro naval paralítico, volta a andar através de um avatar e se apaixona por uma Na'vi. Esta paixão leva Jake a lutar pela sobrevivência de Pandora. O filme contém uma sequência de luzes piscantes que podem afetar pessoas suscetíveis a epilepsia fotossensível ou outras fotossensibilidades.ex",
+      "nome": "Avatar: O Caminho da Água",
+      "descricao": "Uma década após os eventos do primeiro filme, Avatar 2: O Caminho da Água acompanha a história da família Sully: Jake (Sam Worthington), Neytiri (Zoe Saldana) e seus filhos. O longa também irá apresentar os perigos que os esperam nesta nova aventura, os esforços que fazem para se manterem seguros, as batalhas que enfrentam para sobreviver e, claro, as tragédias que sofrem.",
       "preco": "27,90"
     },
     {
       "id": 6,
       "img": [
-        "",
-        "",
-        ""
+        "https://br.web.img3.acsta.net/pictures/22/09/20/15/51/1507365.jpg",
+        "https://www.beiramarshopping.com.br/fmanager/beiramar2017/filmes/t/imagem_capa1782_3.jpg",
+        "https://www.shoppingcidadedasflores.com.br/wp-content/uploads/sites/244/2022/09/sorria-cartaz.png"
       ],
       "nome": "Sorria",
       "descricao": "Depois de testemunhar um incidente bizarro e traumático envolvendo um paciente, a Dra. Rose Cotter começa a experimentar ocorrências assustadoras que ela não consegue explicar. Rose deve enfrentar seu passado perturbador para sobreviver e escapar de sua nova e horrível realidade.",
       "preco": "25,99"
-    }
+    },
+    {
+      "id": 7,
+      "img": [
+        "",
+        "",
+        ""
+      ],
+      "nome": "",
+      "descricao": "",
+      "preco": ""
+    },
+     {
+      "id": 8,
+      "img": [
+        "",
+        "",
+        ""
+      ],
+      "nome": "",
+      "descricao": "",
+      "preco": ""
+    },
+     {
+      "id": 9,
+      "img": [
+        "",
+        "",
+        ""
+      ],
+      "nome": "",
+      "descricao": "",
+      "preco": ""
+    },
+     {
+      "id": 10,
+      "img": [
+        "",
+        "",
+        ""
+      ],
+      "nome": "",
+      "descricao": "",
+      "preco": ""
+    },
+     {
+      "id": 11,
+      "img": [
+        "",
+        "",
+        ""
+      ],
+      "nome": "",
+      "descricao": "",
+      "preco": ""
+    },
+     {
+      "id": 12,
+      "img": [
+        "",
+        "",
+        ""
+      ],
+      "nome": "",
+      "descricao": "",
+      "preco": ""
+    },
+     {
+      "id": 13,
+      "img": [
+        "",
+        "",
+        ""
+      ],
+      "nome": "",
+      "descricao": "",
+      "preco": ""
+    },
+     {
+      "id": 14,
+      "img": [
+        "",
+        "",
+        ""
+      ],
+      "nome": "",
+      "descricao": "",
+      "preco": ""
+    },
+     {
+      "id": 15,
+      "img": [
+        "",
+        "",
+        ""
+      ],
+      "nome": "",
+      "descricao": "",
+      "preco": ""
+    },
+    
     
   ],
   "alimentos": [
