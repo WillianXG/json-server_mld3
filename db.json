@@ -21,9 +21,9 @@
     {
       "id": 1,
       "img": [
-        "",
-        "",
-        ""
+        "https://terracoshopping.com.br/wp-content/uploads/2022/10/ada%CC%83o-negro.jpg",
+        "https://pbs.twimg.com/media/Fe86wVOXwAAgyuS?format=jpg&name=medium",
+        "https://pbs.twimg.com/media/FdG9c-8WIAMAC3H?format=jpg&name=medium"
       ],
       "nome": "Adão Negro",
       "descricao": "Dotado dos poderes onipotentes dos deuses, Teth Adam está preso por 5.000 anos, passando de homem, mito, lenda: Adão Negro. Agora livre, um vingativo Adão Negro exerce seu senso único de justiça, nascido da raiva, mais uma vez. Recusando-se a se render, o anti-herói que passou de homem, mito e lenda, é desafiado pelos heróis modernos da Sociedade da Justiça: Gavião Negro, Sr. Destino, Esgama Átomo e Cyclone.",
@@ -43,12 +43,12 @@
     {
       "id": 3,
       "img": [
-        "",
-        "",
-        ""
+        "https://www.cinesystem.com.br/filmes/images/poster/gato-de-botas-2-o-ultimo-pedido.jpg",
+        "https://cinewestside.com.br/img/filmes/f596.jpeg",
+        "https://www.ucicinemas.com.br/Content/Upload/Filmes/Posters/10674/filme_10674.jpg"
       ],
-      "nome": "One Piece Film: Red",
-      "descricao": "Luffy e sua equipe assistem a um show onde a cantora Uta não é outra senão a filha de Shanks",
+      "nome": "Gato de Botas 2: O Último Pedido",
+      "descricao": "Nesta arriscada aventura, Gato de Botas e Kitty vão contar com a ajuda - contra seus mais aguçados instintos – do ratazanas vira-lata, tagarela e incansavelmente otimista, Perro. Juntos, nosso trio de heróis terá que andar um passo à frente de Cachinhos Dourados e uma surpreendente versão dos Três Ursos, de um Pequeno João Trombeta nem tão pequeno assim, e do aterrorizante caçador de recompensas, Lobo Mau.",
       "preco": "25,50"
     },
     {
@@ -69,22 +69,120 @@
         "",
         ""
       ],
-      "nome": "Avatar",
-      "descricao": "No exuberante mundo alienígena de Pandora vivem os Na'vi, seres que parecem ser primitivos, mas são altamente evoluídos. Como o ambiente do planeta é tóxico, foram criados os avatares, corpos biológicos controlados pela mente humana que se movimentam livremente em Pandora. Jake Sully, um ex-fuzileiro naval paralítico, volta a andar através de um avatar e se apaixona por uma Na'vi. Esta paixão leva Jake a lutar pela sobrevivência de Pandora. O filme contém uma sequência de luzes piscantes que podem afetar pessoas suscetíveis a epilepsia fotossensível ou outras fotossensibilidades.ex",
+      "nome": "Avatar: O Caminho da Água",
+      "descricao": "Uma década após os eventos do primeiro filme, Avatar 2: O Caminho da Água acompanha a história da família Sully: Jake (Sam Worthington), Neytiri (Zoe Saldana) e seus filhos. O longa também irá apresentar os perigos que os esperam nesta nova aventura, os esforços que fazem para se manterem seguros, as batalhas que enfrentam para sobreviver e, claro, as tragédias que sofrem.",
       "preco": "27,90"
     },
     {
       "id": 6,
       "img": [
-        "",
-        "",
-        ""
+        "https://br.web.img3.acsta.net/pictures/22/09/20/15/51/1507365.jpg",
+        "https://www.beiramarshopping.com.br/fmanager/beiramar2017/filmes/t/imagem_capa1782_3.jpg",
+        "https://www.shoppingcidadedasflores.com.br/wp-content/uploads/sites/244/2022/09/sorria-cartaz.png"
       ],
       "nome": "Sorria",
       "descricao": "Depois de testemunhar um incidente bizarro e traumático envolvendo um paciente, a Dra. Rose Cotter começa a experimentar ocorrências assustadoras que ela não consegue explicar. Rose deve enfrentar seu passado perturbador para sobreviver e escapar de sua nova e horrível realidade.",
       "preco": "25,99"
+    },
+    {
+      "id": 7,
+      "img": [
+        "",
+        "",
+        ""
+      ],
+      "nome": "M3gan",
+      "descricao": "O filme conta a história de Gemma, uma brilhante roboticista de uma empresa de brinquedos que usa inteligência artificial para desenvolver uma boneca realista programada para ser a maior companheira de uma criança e a maior aliada dos pais. Quando a sobrinha órfã vai morar com ela, Emma pega um protótipo da boneca para testar e as consequências são aterrorizantes.",
+      "preco": "23,90"
+    },
+     {
+      "id": 8,
+      "img": [
+        "",
+        "",
+        ""
+      ],
+      "nome": "Top Gun: Maverick",
+      "descricao": "Depois de mais de 30 anos servindo a marinha como um dos maiores pilotos de caça, Pete “Maverick” Mitchell continua na ativa, se recusando a subir de patente e deixar de fazer o que mais gosta, que é voar. Enquanto ele treina um grupo de pilotos em formação para uma missão especial que nenhum “Top Gun” em vida jamais participou, ele encontra Bradley Bradshaw, que tem o apelido de “Rooster”, o filho do falecido amigo de Maverick, o oficial Nick Bradshaw, conhecido como “Goose”. Enfrentando um futuro incerto e lidando com fantasmas de seu passado, Maverick confronta seus medos mais profundos em uma missão que exige sacrifícios extremos daqueles que serão escolhidos para executá-la.",
+      "preco": "23,99"
+    },
+     {
+      "id": 9,
+      "img": [
+        "",
+        "",
+        ""
+      ],
+      "nome": "Homem-Aranha: Sem Volta para Casa",
+      "descricao": "Em Homem-Aranha: Sem Volta para Casa, Peter Parker (Tom Holland) precisará lidar com as consequências da sua identidade como o herói mais querido do mundo após ter sido revelada pela reportagem do Clarim Diário, com uma gravação feita por Mysterio (Jake Gyllenhaal) no filme anterior. Incapaz de separar sua vida normal das aventuras de ser um super-herói, além de ter sua reputação arruinada por acharem que foi ele quem matou Mysterio e pondo em risco seus entes mais queridos, Parker pede ao Doutor Estranho (Benedict Cumberbatch) para que todos esqueçam sua verdadeira identidade. Entretanto, o feitiço não sai como planejado e a situação torna-se ainda mais perigosa quando vilões de outras versões de Homem-Aranha de outro universos acabam indo para seu mundo. Agora, Peter não só deter vilões de suas outras versões e fazer com que eles voltem para seu universo original, mas também aprender que, com grandes poderes vem grandes responsabilidades",
+      "preco": "27,99"
+    },
+     {
+      "id": 10,
+      "img": [
+        "",
+        "",
+        ""
+      ],
+      "nome": "O Telefone Preto",
+      "descricao": "Em O Telefone Preto, em 1978, uma série de sequestros estão acontecendo na cidade de Denver. Ethan Hawke interpreta o "Grabbler", um serial killer que tem seu alvo crianças do bairro. Finney Shaw, um garoto de 13 anos, é sequestrado. o garoto acorda em um porão, onde há apenas uma cama e um telefone preto em uma das paredes. Quando o aparelho toca, o garoto consegue ouvir a voz das vítimas anteriores do assassino, e elas tentam evitar que o Finney sofra o mesmo destino. Enquanto isso, sua irmã Gwen tem sonhos que indicam o lugar onde ele pode estar e corre contra o tempo para tentar ajudar os detetives Wright e Miller a ajudar o irmão, apenas para que isso seja em vão. Finney continua a fazer tentativas para escapar que apenas falham, até que uma das vítimas do serial killler fala sobre um plano que finalmente poderia levar Finney à liberdade.",
+      "preco": "25,90"
+    },
+     {
+      "id": 11,
+      "img": [
+        "",
+        "",
+        ""
+      ],
+      "nome": "Thor: Amor e Trovão",
+      "descricao": "Thor: Amor e Trovão é quarta aventura solo de Thor (Chris Hemsworth), personagem da Marvel, sendo a sequência direta de Thor: Ragnarok e o 29º filme do Universo Cinematográfico Marvel. Após os acontecimentos de Ultimato, Thor ansiando por um propósito, retorna a Nova Asgard e sua aposentadoria é interrompida por um assassino galáctico conhecido como Gorr (Christian Bale), o Carniceiro de Deus, que busca a extinção dos deuses. Para combater a ameaça, Thor pede a ajuda da Rainha Valquíria (Tessa Thompson), Korg (Taika Waititi) e Jane Foster (Natalie Portman), sua ex-namorada, que - para surpresa de Thor - inexplicavelmente consegue empunhar seu martelo mágico, Mjolnir, o que imbuiu Jane com o poder de Thor. Juntos, eles embarcam em uma aventura cósmica para descobrir o mistério da vingança do God Butcher e detê-lo antes que seja tarde demais.",
+      "preco": "23,99"
+    },
+     {
+      "id": 12,
+      "img": [
+        "",
+        "",
+        ""
+      ],
+      "nome": "A Freira",
+      "descricao": "Fazendo parte da franquia Invocação do Mal, em A Freira, após uma irmã cometer suicídio em um convento na Romênia, o Vaticano envia um padre atormentado e uma noviça para investigar o ocorrido. Arriscando suas vidas, a fé e até suas almas, os dois descobrem um segredo profano no local, confrontando-se com uma força do mal que toma a forma de uma freira demoníaca e transforma o convento num campo de batalha espiritual.",
+      "preco": "25,90"
+    },
+     {
+      "id": 13,
+      "img": [
+        "",
+        "",
+        ""
+      ],
+      "nome": "Homem-Formiga e a Vespa: Quantumania",
+      "descricao": "Homem-Formiga e a Vespa: Quantumania é a continuação da franquia de sucesso da Marvel, acompanhando Scott Lang (Paul Rudd) e Hope van Dyne (Evangeline Lilly) em suas jornadas como super-heróis. Scott e sua família são puxados para o Reino Quântico, onde eles percisarão enfrentar um novo e terrível vilão: Kang, o Conquistador e M.O.D.O.K.",
+      "preco": "25,90"
+    },
+     {
+      "id": 14,
+      "img": [
+        "",
+        "",
+        ""
+      ],
+      "nome": "Invocação do Mal 3: A Ordem do Demônio",
+      "descricao": "O casal Ed e Lorraine Warren investigam um assassino que alega ter sido possuído por um demônio.",
+      "preco": ""
+    },
+     {
+      "id": 15,
+      "img": [
+        "",
+        "",
+        ""
+      ],
+      "nome": "Barbie",
+      "descricao": "No mundo mágico das Barbies, Barbieland, uma das bonecas começa a perceber que não se encaixa como as outras. Depois de ser expulsa, ela parte para uma aventura no mundo real, onde descobre que a beleza está no interior de cada um.",
+      "preco": ""
     }
-    
   ],
   "alimentos": [
     {
