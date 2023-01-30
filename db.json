@@ -182,6 +182,61 @@
       "nome": "Velozes e Furiosos 9",
       "descricao": "Dominic Toretto e Letty vivem uma vida pacata ao lado do filho. Mas eles logo são ameaçados pelo passado de Dom: seu irmão desaparecido Jakob, que retorna e está trabalhando ao lado de Cipher. Cabe a Dom reunir a equipe novamente para enfrentá-los.",
       "preco": "29,99"
+    },
+    {
+      "id": 16,
+      "img": [
+        "https://1.bp.blogspot.com/-GBYl6mW4rII/XaSAXqg8VNI/AAAAAAAAQA8/NWUGXoCvP8IPaYefFt5Wiiytqz9zDpp4wCLcBGAsYHQ/s1600/invocacaodomal3.jpg",
+        "https://hdfilmeseseries.info/wp-content/uploads/2021/06/Invocacao-do-Mal-3-A-Ordem-Do-Invocacao-do-Mal-Dublado-Online-1.jpg",
+        "https://s2.glbimg.com/PwZt9DB4q47YdztJ9aSsHPU9Tl8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/p/N/dnYaKeSRAroS5GpkaBYw/pior-vizinho-mundo-foto2.jpg"
+      ],
+      "nome": "O pior vizinho do mundo",
+      "descricao": "Após as cartas de sua nova vizinha parar na caixa de correio do rabugento Otto, uma amizade inesperada se forma e muda a vida dos dois vizinhos.",
+      "preco": "30,00"
+    },
+    {
+      "id": 17,
+      "img": [
+        "https://www.papodecinema.com.br/wp-content/uploads/2022/12/20221214-alerta-maximo-papo-de-cinema-cartaz.png",
+        "https://f001.backblazeb2.com/file/papocine/2022/12/20221214-alerta-maximo-papo-de-cinema-800.jpeg",
+        "https://cinema10.com.br/upload/featuredImage.php?url=https%3A%2F%2Fcinema10.com.br%2Fupload%2Fnoticias%2Fnoticias-alerta-maximo-noticia-do-trailer.jpg"
+      ],
+      "nome": "Alerta máximo",
+      "descricao": "A tranquilidade dos passageiros de um voo qualquer dura pouco. O piloto é obrigado a fazer um pouso forçado depois de um relâmpago e os sobreviventes precisarão lutar contra os perigos de uma ilha cheia de milicianos.",
+      "preco": "24,55"
+    },
+    {
+      "id": 18,
+      "img": [
+        "https://jardimdasamericas.com.br/uploads/2023/01/capa-filme-a-profecia-do-mal-18fe9-large.jpg",
+        "https://one-cinema.s3.sa-east-1.amazonaws.com/filmes/the-devil-conspiracy/11012023/3840/background-the-devil-conspiracy.jpg",
+        "https://static.diario24horas.com.br/images/articles/2023/1/26/431-a-profecia-do-mal-mistura-terror-e-ciencia-em-um-filme-unico.jpg"
+      ],
+      "nome": "A profecia do mal",
+      "descricao": "Em A Profecia do Mal, Lucífer é expulso do céu e é acorrentado a um local infernal para sempre por Miguel, jurando, no entanto, que um dia ele terá sua vingança.",
+      "preco": "26,90"
+    },
+    {
+      "id": 19,
+      "img": [
+        "https://www.atoupeira.com.br/wp-content/uploads/2022/11/Esquema-de-Risco-Operacao-Fortune_poster-nacional.jpg",
+        "https://cinepop.com.br/wp-content/uploads/2022/11/esquema-de-risco-operacao.jpg",
+        "https://infonet.com.br/wp-content/uploads/2023/01/sa1.jpg"
+      ],
+      "nome": "Esquema de risco: Operação fortune",
+      "descricao": "Em Esquema de Risco: Operação Fortune, o agente secreto Orson Fortune (Jason Statham) e seus companheiros recrutam uma das maiores estrelas de Hollywood para ajudá-los em uma missão importante - e arriscada.",
+      "preco": "28,00"
+    },
+    {
+      "id": 20,
+      "img": [
+        "https://br.web.img2.acsta.net/pictures/21/10/27/11/49/5430171.jpg",
+        "https://i0.wp.com/www.otakupt.com/wp-content/uploads/2021/06/Jujutsu-Kaisen-0-the-Movie-movie-poster.jpg?resize=1280%2C1810&ssl=1",
+        "https://i.pinimg.com/originals/54/dc/fb/54dcfb6e3903e90b6163f1dd25558e49.png"
+      ],
+      "nome": "Jujutsu Kaisen 0",
+      "descricao": "O jovem Yuta Okkotsu ganha o controle de um espírito extremamente poderoso, então um grupo de feiticeiros o matriculam na Tokyo Prefectural Jujutsu High School, para ajudá-lo a controlar esse poder e também para ficar de olho nele.",
+      "preco": "22,00"
     }
   ],
   "alimentos": [
