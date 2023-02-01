@@ -352,65 +352,65 @@
   "alimentos": [
     {
       "id": 1,
-      "img": "",
+      "img": "https://o.remove.bg/downloads/0cacd5f9-7599-4879-ad59-f77ff8a52d8d/kisspng-fizzy-drinks-plastic-bottle-clip-art-bottle-cliparts-5aac3f8485f063.2718858115212378925486-removebg-preview.png",
       "nome": "Agua sem gás 500ml",
       "descricao": "Agua sem gás no tamanho de 500ml",
       "preco": "4,50"
     },
     {
       "id": 2,
-      "img": "",
+      "img": "https://o.remove.bg/downloads/a7ad4c7f-a67c-47fa-a8db-a9456a773c1b/12293821-removebg-preview.png",
       "nome": "Refrigerante 600ml",
       "descricao": "Refrigerante 600ml nos sabores: uva, cola, guarana e laranja",
       "preco": "8,99"
     },
     {
       "id": 3,
-      "img": "",
+      "img": "https://o.remove.bg/downloads/9004e134-efde-4494-bb2d-8819f7d8a4c0/17061914-removebg-preview.png",
       "nome": "Refrigerante 1.5l",
       "descricao": "Refrigerante 1.5l nos sabores: uva, cola, guarana e laranja",
       "preco": "15,90"
     },
     {
       "id": 4,
-      "img": "",
+      "img": "https://o.remove.bg/downloads/1afb0777-9d81-4bd1-a9ce-9d0a89c01746/kisspng-popcorn-kettle-corn-junk-food-cinema-popcorn-5a6d01a05bb242.5043211215170932803756-removebg-preview.png",
       "nome": "Pipoca Grande",
       "descricao": "Pipoca do tamanho grande com ou sem manteiga",
       "preco": "18,50"
     },
     {
       "id": 5,
-      "img": "",
+      "img": "https://o.remove.bg/downloads/5039e6fd-4f60-43a6-b4bd-ae33b0c7051f/kisspng-valparaiso-popcorn-festival-drouin-baptist-church-5b3a49d95cb216.6808503715305466493797-removebg-preview.png",
       "nome": "Pipoca media",
       "descricao": "Pipoca do tamanho medio com ou sem manteiga",
       "preco": "16,00"
     },
     {
       "id": 6,
-      "img": "",
+      "img": "https://o.remove.bg/downloads/e8a46afc-87fe-4a3a-8b9d-219dcf009671/89b69eeb8b-removebg-preview.png",
       "nome": "M&Ms 45g",
       "descricao": "M&Ms de todos os sabores 45g",
       "preco": "6,00"
     },
     {
       "id": 7,
-      "img": "",
+      "img": "https://o.remove.bg/downloads/59f1de8e-ae7f-48be-a47b-5213bf09954d/temperos_popcorn_saches_5g_9_sabores_400_unidades_645_4_1f16805a3e06963da842bc86a07a4eba-removebg-preview.png",
       "nome": "Tempero para pipoca sache",
       "descricao": "Tempero no sabor de: bacon, frango e carne",
       "preco": "2,00"
     },
     {
       "id": 8,
-      "img": "",
-      "nome": "Combo: Pipoca Grande + Refrigerante 1.5",
-      "descricao": "Pipoca Grande + Regrigerante 1.5",
+      "img": "https://ingresso-a.akamaihd.net/sitenovo-2017/checkout/img/combo.png",
+      "nome": "Combo: Pipoca Grande + 2 Refrigerantes 500ml",
+      "descricao": "Pipoca Grande + 2xRegrigerante de 500ml",
       "preco": "29,99"
     },
     {
       "id": 9,
-      "img": "",
-      "nome": "Combo: Pipoca Media + Refrigerante 600ml",
-      "descricao": "Pipoca Media + Regrigerante 600ml",
+      "img": "https://ingresso-a.akamaihd.net/sitenovo-2017/checkout/img/combo.png",
+      "nome": "Combo: Pipoca Media + 2 Refrigerantes 500ml",
+      "descricao": "Pipoca Media + 2xRegrigerante de 500ml",
       "preco": "19,99"
     }
   ],
