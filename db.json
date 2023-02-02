@@ -352,63 +352,63 @@
   "alimentos": [
     {
       "id": 1,
-      "img": "https://o.remove.bg/downloads/0cacd5f9-7599-4879-ad59-f77ff8a52d8d/kisspng-fizzy-drinks-plastic-bottle-clip-art-bottle-cliparts-5aac3f8485f063.2718858115212378925486-removebg-preview.png",
+      "img": "https://static.paodeacucar.com/img/uploads/1/132/11825132.jpg",
       "nome": "Agua sem gás 500ml",
       "descricao": "Agua sem gás no tamanho de 500ml",
       "preco": "4,50"
     },
     {
       "id": 2,
-      "img": "https://o.remove.bg/downloads/a7ad4c7f-a67c-47fa-a8db-a9456a773c1b/12293821-removebg-preview.png",
-      "nome": "Refrigerante 600ml",
-      "descricao": "Refrigerante 600ml nos sabores: uva, cola, guarana e laranja",
+      "img": "https://crowdhamburgueria.onnpay.com.br/_core/_uploads//2022/04/1647300422ia7hag59ii.png",
+      "nome": "Refrigerante 350ml",
+      "descricao": "Refrigerante 350ml nos sabores: uva, cola, guarana e laranja",
       "preco": "8,99"
     },
     {
       "id": 3,
-      "img": "https://o.remove.bg/downloads/9004e134-efde-4494-bb2d-8819f7d8a4c0/17061914-removebg-preview.png",
-      "nome": "Refrigerante 1.5l",
-      "descricao": "Refrigerante 1.5l nos sabores: uva, cola, guarana e laranja",
+      "img": "https://loja.barracadoze.com.br/wp-content/uploads/sites/5/2020/10/m_37351512688138.png",
+      "nome": "Refrigerante 600ml",
+      "descricao": "Refrigerante 600ml nos sabores: uva, cola, guarana, laranja e sprite",
       "preco": "15,90"
     },
     {
       "id": 4,
-      "img": "https://img1.gratispng.com/20180325/wbw/kisspng-popcorn-makers-act-ii-food-snack-washing-powder-5ab7eca5c95a23.5304125615220031098247.jpg",
+      "img": "https://cdn.awsli.com.br/600x450/301/301167/produto/16858404/c3d13133b2.jpg",
       "nome": "Pipoca Grande",
       "descricao": "Pipoca do tamanho grande com ou sem manteiga",
       "preco": "18,50"
     },
     {
       "id": 5,
-      "img": "https://o.remove.bg/downloads/5039e6fd-4f60-43a6-b4bd-ae33b0c7051f/kisspng-valparaiso-popcorn-festival-drouin-baptist-church-5b3a49d95cb216.6808503715305466493797-removebg-preview.png",
+      "img": "https://images.tcdn.com.br/img/img_prod/829564/180_embalagem_para_pipoca_media_listrada_100_unidades_393_1_3074b11e920bafba578b40f0f7ab0aaf.jpg",
       "nome": "Pipoca media",
       "descricao": "Pipoca do tamanho medio com ou sem manteiga",
       "preco": "16,00"
     },
     {
       "id": 6,
-      "img": "https://o.remove.bg/downloads/e8a46afc-87fe-4a3a-8b9d-219dcf009671/89b69eeb8b-removebg-preview.png",
-      "nome": "M&Ms 45g",
-      "descricao": "M&Ms de todos os sabores 45g",
+      "img": "https://veja.abril.com.br/wp-content/uploads/2016/07/chocolate-m-m-original.png?w=860&resize=1200,800",
+      "nome": "M&Ms 50g",
+      "descricao": "M&Ms de todos os sabores 50g",
       "preco": "6,00"
     },
     {
       "id": 7,
-      "img": "https://o.remove.bg/downloads/59f1de8e-ae7f-48be-a47b-5213bf09954d/temperos_popcorn_saches_5g_9_sabores_400_unidades_645_4_1f16805a3e06963da842bc86a07a4eba-removebg-preview.png",
+      "img": "https://images.tcdn.com.br/img/img_prod/462159/temperos_popcorn_120_saches_15_cebola_e_salsa_15_manteiga_15_pizza_15_churrasco_15_queijo_15_sal_pop_547_1_87d67c77043e230639d2ede57103bdc4.png",
       "nome": "Tempero para pipoca sache",
       "descricao": "Tempero no sabor de: bacon, frango e carne",
       "preco": "2,00"
     },
     {
       "id": 8,
-      "img": "https://o.remove.bg/downloads/d1d31176-5422-4879-914c-710dfcc3fac3/combo-max-duplo-removebg-preview.png",
+      "img": "https://www.cinesystem.com.br/bomboniere/images/combos/combo-max-duplo.png",
       "nome": "Combo: Pipoca Grande + 2 Refrigerantes 500ml",
       "descricao": "Pipoca Grande + 2xRegrigerante de 500ml",
       "preco": "29,99"
     },
     {
       "id": 9,
-      "img": "https://o.remove.bg/downloads/efa00a2a-5fd3-4fed-8c20-8894388d1f71/combo-grande-removebg-preview.png",
+      "img": "https://www.cinesystem.com.br/bomboniere/images/combos/combo-super.png",
       "nome": "Combo: Pipoca Media + Refrigerantes 500ml",
       "descricao": "Pipoca Media + Regrigerante de 500ml",
       "preco": "19,99"
