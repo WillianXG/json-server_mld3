@@ -16,7 +16,7 @@
       ],
       "nome": "Adão Negro",
       "descricao": "Dotado dos poderes onipotentes dos deuses, Teth Adam está preso por 5.000 anos, passando de homem, mito, lenda: Adão Negro. Agora livre, um vingativo Adão Negro exerce seu senso único de justiça, nascido da raiva, mais uma vez. Recusando-se a se render, o anti-herói que passou de homem, mito e lenda, é desafiado pelos heróis modernos da Sociedade da Justiça: Gavião Negro, Sr. Destino, Esgama Átomo e Cyclone.",
-      "preco": "27,90"
+      "preco": 27.90
     },
     {
       "id": 2,
@@ -27,7 +27,7 @@
       ],
       "nome": "Pantera Negra",
       "descricao": "A Rainha Ramonda, Shuri, M’Baku, Okoye e as Dora Milaje, lutam para proteger sua nação contra as potências mundiais intervenientes logo após a morte do Rei T’Challa. Enquanto os Wakandanos se esforçam para aceitar este próximo capítulo, os heróis devem se unir com a ajuda da veterana guerreira Nakia e Everett Ross e forjar um novo caminho para o reino de Wakanda. Apresentando como Namor, rei de uma oculta nação submarina, o filme também é estrelado por Dominique Thorne, Michaela Coel, Mabel Cadena e Alex Livanalli.",
-      "preco": "25,85"
+      "preco": 25.85
     },
     {
       "id": 3,
@@ -38,7 +38,7 @@
       ],
       "nome": "Gato de Botas 2: O Último Pedido",
       "descricao": "Nesta arriscada aventura, Gato de Botas e Kitty vão contar com a ajuda - contra seus mais aguçados instintos – do ratazanas vira-lata, tagarela e incansavelmente otimista, Perro. Juntos, nosso trio de heróis terá que andar um passo à frente de Cachinhos Dourados e uma surpreendente versão dos Três Ursos, de um Pequeno João Trombeta nem tão pequeno assim, e do aterrorizante caçador de recompensas, Lobo Mau.",
-      "preco": "25,50"
+      "preco": 25.50
     },
     {
       "id": 4,
@@ -49,7 +49,7 @@
       ],
       "nome": "A Luz do Demônio",
       "descricao": "Com relatos de possessões demoníacas alcançando números sem precedentes em todo o mundo, o Vaticano abre escolas para exorcismos em seis países, incluindo os Estados Unidos. A freira Ann acredita devotamente que realizar exorcismos é o seu chamado. Mas ela está em desacordo com as tradições da instituição: as freiras não podem realizar exorcismos, apenas padres. Com o apoio de um mentor, um professor que sente seu dom especial, ela pode assistir a sessões de treinamento reais. Seu desejo de provar a si própria toma um rumo pessoal quando ela conhece um dos pacientes mais perturbados da escola. Durante seus encontros angustiantes, a irmã Ann se depara com uma força demoníaca que infesta a escola e tem laços misteriosos com seu próprio passado. É então que o poder do mal e suas próprias habilidades surpreendentes serão plenamente realizados.",
-      "preco": "27,90"
+      "preco": 27.90
     },
     {
       "id": 5,
@@ -60,7 +60,7 @@
       ],
       "nome": "Avatar: O Caminho da Água",
       "descricao": "Uma década após os eventos do primeiro filme, Avatar 2: O Caminho da Água acompanha a história da família Sully: Jake (Sam Worthington), Neytiri (Zoe Saldana) e seus filhos. O longa também irá apresentar os perigos que os esperam nesta nova aventura, os esforços que fazem para se manterem seguros, as batalhas que enfrentam para sobreviver e, claro, as tragédias que sofrem.",
-      "preco": "27,90"
+      "preco": 27.90
     },
     {
       "id": 6,
@@ -71,7 +71,7 @@
       ],
       "nome": "Sorria",
       "descricao": "Depois de testemunhar um incidente bizarro e traumático envolvendo um paciente, a Dra. Rose Cotter começa a experimentar ocorrências assustadoras que ela não consegue explicar. Rose deve enfrentar seu passado perturbador para sobreviver e escapar de sua nova e horrível realidade.",
-      "preco": "25,99"
+      "preco": 25.99
     },
     {
       "id": 7,
@@ -82,7 +82,7 @@
       ],
       "nome": "M3gan",
       "descricao": "O filme conta a história de Gemma, uma brilhante roboticista de uma empresa de brinquedos que usa inteligência artificial para desenvolver uma boneca realista programada para ser a maior companheira de uma criança e a maior aliada dos pais. Quando a sobrinha órfã vai morar com ela, Emma pega um protótipo da boneca para testar e as consequências são aterrorizantes.",
-      "preco": "23,90"
+      "preco": 23.90
     },
      {
       "id": 8,
@@ -93,7 +93,7 @@
       ],
       "nome": "Top Gun: Maverick",
       "descricao": "Depois de mais de 30 anos servindo a marinha como um dos maiores pilotos de caça, Pete “Maverick” Mitchell continua na ativa, se recusando a subir de patente e deixar de fazer o que mais gosta, que é voar. Enquanto ele treina um grupo de pilotos em formação para uma missão especial que nenhum “Top Gun” em vida jamais participou, ele encontra Bradley Bradshaw, que tem o apelido de “Rooster”, o filho do falecido amigo de Maverick, o oficial Nick Bradshaw, conhecido como “Goose”. Enfrentando um futuro incerto e lidando com fantasmas de seu passado, Maverick confronta seus medos mais profundos em uma missão que exige sacrifícios extremos daqueles que serão escolhidos para executá-la.",
-      "preco": "23,99"
+      "preco": 23.99
     },
      {
       "id": 9,
@@ -104,7 +104,7 @@
       ],
       "nome": "Homem-Aranha: Sem Volta para Casa",
       "descricao": "Em Homem-Aranha: Sem Volta para Casa, Peter Parker (Tom Holland) precisará lidar com as consequências da sua identidade como o herói mais querido do mundo após ter sido revelada pela reportagem do Clarim Diário, com uma gravação feita por Mysterio (Jake Gyllenhaal) no filme anterior. Incapaz de separar sua vida normal das aventuras de ser um super-herói, além de ter sua reputação arruinada por acharem que foi ele quem matou Mysterio e pondo em risco seus entes mais queridos, Parker pede ao Doutor Estranho (Benedict Cumberbatch) para que todos esqueçam sua verdadeira identidade. Entretanto, o feitiço não sai como planejado e a situação torna-se ainda mais perigosa quando vilões de outras versões de Homem-Aranha de outro universos acabam indo para seu mundo. Agora, Peter não só deter vilões de suas outras versões e fazer com que eles voltem para seu universo original, mas também aprender que, com grandes poderes vem grandes responsabilidades",
-      "preco": "27,99"
+      "preco": 27.99
     },
      {
       "id": 10,
@@ -115,7 +115,7 @@
       ],
       "nome": "O Telefone Preto",
       "descricao": "Em O Telefone Preto, em 1978, uma série de sequestros estão acontecendo na cidade de Denver. Ethan Hawke interpreta o Grabbler, um serial killer que tem seu alvo crianças do bairro. Finney Shaw, um garoto de 13 anos, é sequestrado. o garoto acorda em um porão, onde há apenas uma cama e um telefone preto em uma das paredes. Quando o aparelho toca, o garoto consegue ouvir a voz das vítimas anteriores do assassino, e elas tentam evitar que o Finney sofra o mesmo destino. Enquanto isso, sua irmã Gwen tem sonhos que indicam o lugar onde ele pode estar e corre contra o tempo para tentar ajudar os detetives Wright e Miller a ajudar o irmão, apenas para que isso seja em vão. Finney continua a fazer tentativas para escapar que apenas falham, até que uma das vítimas do serial killler fala sobre um plano que finalmente poderia levar Finney à liberdade.",
-      "preco": "25,90"
+      "preco": 25.90
     },
      {
       "id": 11,
@@ -126,7 +126,7 @@
       ],
       "nome": "Thor: Amor e Trovão",
       "descricao": "Thor: Amor e Trovão é quarta aventura solo de Thor (Chris Hemsworth), personagem da Marvel, sendo a sequência direta de Thor: Ragnarok e o 29º filme do Universo Cinematográfico Marvel. Após os acontecimentos de Ultimato, Thor ansiando por um propósito, retorna a Nova Asgard e sua aposentadoria é interrompida por um assassino galáctico conhecido como Gorr (Christian Bale), o Carniceiro de Deus, que busca a extinção dos deuses. Para combater a ameaça, Thor pede a ajuda da Rainha Valquíria (Tessa Thompson), Korg (Taika Waititi) e Jane Foster (Natalie Portman), sua ex-namorada, que - para surpresa de Thor - inexplicavelmente consegue empunhar seu martelo mágico, Mjolnir, o que imbuiu Jane com o poder de Thor. Juntos, eles embarcam em uma aventura cósmica para descobrir o mistério da vingança do God Butcher e detê-lo antes que seja tarde demais.",
-      "preco": "23,99"
+      "preco": 23.99
     },
      {
       "id": 12,
@@ -137,7 +137,7 @@
       ],
       "nome": "A Freira",
       "descricao": "Fazendo parte da franquia Invocação do Mal, em A Freira, após uma irmã cometer suicídio em um convento na Romênia, o Vaticano envia um padre atormentado e uma noviça para investigar o ocorrido. Arriscando suas vidas, a fé e até suas almas, os dois descobrem um segredo profano no local, confrontando-se com uma força do mal que toma a forma de uma freira demoníaca e transforma o convento num campo de batalha espiritual.",
-      "preco": "25,90"
+      "preco": 25.90
     },
      {
       "id": 13,
@@ -148,7 +148,7 @@
       ],
       "nome": "Homem-Formiga e a Vespa: Quantumania",
       "descricao": "Homem-Formiga e a Vespa: Quantumania é a continuação da franquia de sucesso da Marvel, acompanhando Scott Lang (Paul Rudd) e Hope van Dyne (Evangeline Lilly) em suas jornadas como super-heróis. Scott e sua família são puxados para o Reino Quântico, onde eles percisarão enfrentar um novo e terrível vilão: Kang, o Conquistador e M.O.D.O.K.",
-      "preco": "25,90"
+      "preco": 25.90
     },
      {
       "id": 14,
@@ -159,7 +159,7 @@
       ],
       "nome": "Invocação do Mal 3: A Ordem do Demônio",
       "descricao": "O casal Ed e Lorraine Warren investigam um assassino que alega ter sido possuído por um demônio.",
-      "preco": "25,90"
+      "preco": 25.90
     },
      {
       "id": 15,
@@ -170,7 +170,7 @@
       ],
       "nome": "Velozes e Furiosos 9",
       "descricao": "Dominic Toretto e Letty vivem uma vida pacata ao lado do filho. Mas eles logo são ameaçados pelo passado de Dom: seu irmão desaparecido Jakob, que retorna e está trabalhando ao lado de Cipher. Cabe a Dom reunir a equipe novamente para enfrentá-los.",
-      "preco": "29,99"
+      "preco": 29.99
     },
     {
       "id": 16,
@@ -181,7 +181,7 @@
       ],
       "nome": "O pior vizinho do mundo",
       "descricao": "Após as cartas de sua nova vizinha parar na caixa de correio do rabugento Otto, uma amizade inesperada se forma e muda a vida dos dois vizinhos.",
-      "preco": "30,00"
+      "preco": 30.00
     },
     {
       "id": 17,
@@ -192,7 +192,7 @@
       ],
       "nome": "Alerta máximo",
       "descricao": "A tranquilidade dos passageiros de um voo qualquer dura pouco. O piloto é obrigado a fazer um pouso forçado depois de um relâmpago e os sobreviventes precisarão lutar contra os perigos de uma ilha cheia de milicianos.",
-      "preco": "24,55"
+      "preco": 24.55
     },
     {
       "id": 18,
@@ -203,7 +203,7 @@
       ],
       "nome": "A profecia do mal",
       "descricao": "Em A Profecia do Mal, Lucífer é expulso do céu e é acorrentado a um local infernal para sempre por Miguel, jurando, no entanto, que um dia ele terá sua vingança.",
-      "preco": "26,90"
+      "preco": 26.90
     },
     {
       "id": 19,
@@ -214,7 +214,7 @@
       ],
       "nome": "Esquema de risco: Operação fortune",
       "descricao": "Em Esquema de Risco: Operação Fortune, o agente secreto Orson Fortune (Jason Statham) e seus companheiros recrutam uma das maiores estrelas de Hollywood para ajudá-los em uma missão importante - e arriscada.",
-      "preco": "28,00"
+      "preco": 28.00
     },
     {
       "id": 20,
@@ -225,7 +225,7 @@
       ],
       "nome": "Jujutsu Kaisen 0",
       "descricao": "O jovem Yuta Okkotsu ganha o controle de um espírito extremamente poderoso, então um grupo de feiticeiros o matriculam na Tokyo Prefectural Jujutsu High School, para ajudá-lo a controlar esse poder e também para ficar de olho nele.",
-      "preco": "22,00"
+      "preco": 22.00
     },
     {
       "id": 21,
@@ -236,7 +236,7 @@
       ],
       "nome": "Guardiões da Galáxia Vol.3",
       "descricao": "Ainda se recuperando da perda de Gamora, Peter Quill reúne sua equipe para defender o universo e um deles - uma missão que pode significar o fim dos Guardiões se não for bem-sucedida.",
-      "preco": "22,00"
+      "preco": 22.00
     },
     {
       "id": 22,
@@ -247,7 +247,7 @@
       ],
       "nome": "Chef Jack - O cozinheiro aventureiro",
       "descricao": "Chef Jack é um chef de cozinha de bom coração, mas com uma pitada a mais do que o necessário de confiança. Ele é um dos prodígios da Culinária da Aventura, viajando por todos os cantos do planeta cozinhando e achando os ingredienteas mais raros e finos para completar suas receitas.",
-      "preco": "25,00"
+      "preco": 25.00
     },
     {
       "id": 23,
@@ -258,7 +258,7 @@
       ],
       "nome": "A última festa",
       "descricao": "Em A Última Festa, acompanhamos a festa de formatura de um grupo de estudantes que se preparam para seguirem suas vidas em diferentes faculdades. Em meio a festa, histórias acabam se cruzando.",
-      "preco": "20,90"
+      "preco": 20.90
     },
     {
       "id": 24,
@@ -269,7 +269,7 @@
       ],
       "nome": "Olhos Famintos: Renascimento",
       "descricao": "Quando é forçada a viajar com o namorado, Laine começa a experimentar premonições sobre um mito local chamado The Creeper.",
-      "preco": "29,60"
+      "preco": 29.60
     },
     {
       "id": 25,
@@ -280,7 +280,7 @@
       ],
       "nome": "Decisão de partir",
       "descricao": "Em Decisão de Partir, Hae-joon (Park Hae-il) é o mais jovem inspetor do departamento de polícia de Busan. Nos fins de semana, ele vive em uma cidade litorânea enevoada com sua amada esposa, mas durante a semana na cidade ele é tão dedicado ao seu trabalho que faz vigias todas as noites em vez de dormir.",
-      "preco": "26,20"
+      "preco": 26.20
     },
     {
       "id": 26,
@@ -291,7 +291,7 @@
       ],
       "nome": "Garoto dos céus",
       "descricao": "Em Garoto dos Céus Adam, um humilde filho de um pescador, ingressa na prestigiosa Universidade Al-Azhar, no Cairo: o epicentro do poder do Islã sunita.",
-      "preco": "20,00"
+      "preco": 20.00
     },
     {
       "id": 27,
@@ -302,7 +302,7 @@
       ],
       "nome": "Terrifier 2",
       "descricao": "Terrifier 2 se passa um ano depois do primeiro filme. Acordando no necrotério após seu massacre na noite de Halloween do ano passado, Art the Clown (David Howard Thornton) está de volta no tempo para o Dia da Reforma!",
-      "preco": "25,00"
+      "preco": 25.00
     },
     {
       "id": 28,
@@ -313,7 +313,7 @@
       ],
       "nome": "Marte Um",
       "descricao": "A família Martins vive tranquilamente nas margens de uma grande cidade brasileira após a decepcionante posse de um presidente extremista de extrema-direita.",
-      "preco": "26,00"
+      "preco": 26.00
     },
     {
       "id": 29,
@@ -324,7 +324,7 @@
       ],
       "nome": "Muco: contradição na tradição",
       "descricao": "O documentário Muco: Contradição na Tradição apresenta dois irmãos brasileiros que viajam à Índia a fim de entender primeiros princípios éticos do Yoga (Yamas) e as implicações que esta prática milenar tem em nossa sociedade.",
-      "preco": "28,00"
+      "preco": 28.00
     },
     {
       "id": 30,
@@ -335,7 +335,7 @@
       ],
       "nome": "O Tesouro do Pequeno Nicolau",
       "descricao": "No mundo pacífico do pequeno Nicolau, há papai, mamãe, escola, mas acima de tudo, seu grupo de amigos.",
-      "preco": "24,00"
+      "preco": 24.00
     }
   ],
   "alimentos": [
