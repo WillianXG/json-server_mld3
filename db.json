@@ -1,20 +1,9 @@
 { 
-  "categorias": [
+  "users": [
     {
       "id": 1,
-      "nome": "filmes"
-    },
-    {
-      "id": 2,
-      "nome": "alimentação"
-    },
-    {
-      "id": 3,
-      "nome": "Sessões"
-    },
-    {
-      "id": 4,
-      "nome": "Reservas"
+      "email": "admin",
+      "senha": "admin"
     }
   ],
   "filmes": [
